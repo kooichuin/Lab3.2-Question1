@@ -1,7 +1,7 @@
 package my.edu.tarc.lab31_question1;
 // Created by : Chen Kooi Chuin
 //Modified on : 26-19-2915
-//Description : 1st version, upload from my laptop.123 update by desktop
+//Description : 1st version, upload from my laptop.1231
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
